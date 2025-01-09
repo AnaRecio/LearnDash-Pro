@@ -90,12 +90,6 @@ export default function PaymentPage() {
         </form>
       </div>
     </div>
-  Here's the continuation of the text stream from the cut-off point:
-
-full">Complete Payment</Button>
-        </form>
-      </div>
-    </div>
   )
 }
 
